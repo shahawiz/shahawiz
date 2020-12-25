@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Hossam
 
-<!--
-**shahawiz/shahawiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an all round software engineer who loves coffee. Not just any regular coffee, I prefer a very strong Turkish one.
+I like working in a team, you’ll learn faster and much more. As the saying goes:
+two heads are better than one .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineer with good knowledge of backend techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps , also I’m in love with cloud and servers as I have a passion about security, cloud infrastructure , web hosting and I’m a Linux🐧 fan boy.
+
+
+## Find me around the web 🌎: 
+- Official Blog <a href="https://www.hossamelshahawi.com">HossamElshahawi.com</a> 📹 ✍🏾
+- Twitter <a href="https://twitter.com/shahawiz"> @Shahawiz</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/elshahawi">LinkedIn</a> 💼
