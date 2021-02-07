@@ -8,7 +8,3 @@ two heads are better than one .
 I am a software engineer with good knowledge of backend techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps , also I’m in love with cloud and servers as I have a passion about security, cloud infrastructure , web hosting and I’m a Linux🐧 fan boy.
 
 
-## Find me around the web 🌎: 
-- Official Blog <a href="https://www.hossamelshahawi.com">HossamElshahawi.com</a> 📹 ✍🏾
-- Twitter <a href="https://twitter.com/shahawiz"> @Shahawiz</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/elshahawi">LinkedIn</a> 💼
